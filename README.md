@@ -1,11 +1,9 @@
-Here's a sample `README.md` file for your university projects repository:
-
 **University Of The People Projects Repository**
 ================================
 
 Welcome to my University Projects Repository!
 
-This repository showcases my academic projects and endeavors during my time at [Your University Name]. It's a collection of coding challenges, assignments, and personal projects that demonstrate my skills and knowledge in various programming languages and technologies.
+This repository showcases my academic projects and endeavors during my time at University of the People. It's a collection of coding challenges, assignments, and personal projects that demonstrate my skills and knowledge in various programming languages and technologies.
 
 **Projects**
 -----------
@@ -38,12 +36,12 @@ This repository is a platform to showcase my academic projects, experiment with 
 **How to contribute**
 --------------------
 
-If you're interested in contributing to this repository or would like to collaborate on a project, please feel free to reach out to me at [Your Email Address]. I'm always open to new ideas and feedback!
+If you're interested in contributing to this repository or would like to collaborate on a project, please feel free to reach out to me at sardines@disroot.org. I'm always open to new ideas and feedback!
 
 **License**
 ---------
 
-This repository is licensed under the MIT License. See the LICENSE file for details.
+This repository is licensed under the  UNLicense. See the LICENSE file for details.
 
 **Acknowledgments**
 ------------------
